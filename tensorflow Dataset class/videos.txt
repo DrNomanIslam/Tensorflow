@@ -1,0 +1,41 @@
+4th August - Python
+https://drive.google.com/file/d/1A2zd1aDXSETSuw_AAEO0hneCDEEp_fLf/view?usp=sharing
+
+14th August - Python, numpy
+https://drive.google.com/file/d/1N5Ih_63FrIhd7ebqavhtsgb2VDQr9R1B/view?usp=sharing
+
+4th Sept - numpy
+https://drive.google.com/file/d/1tjop6PPmvAMA99E3r_QTNAt-yfFiO-m8/view?usp=sharing
+
+11th Sep - numpy
+https://drive.google.com/file/d/15UvcZsT1yzu1t1Et4Pf3ZnTg30sfbGcK/view?usp=sharing
+
+20th Sept - pandas
+https://drive.google.com/file/d/1Zlc7q0GfJ0mhuIcZbt43U0_CIq3jBQYp/view?usp=sharing
+
+4th October - DBMS
+https://drive.google.com/file/d/1hMmiiqPD3_Is_oO-OCMq4KvshqiwxsKN/view?usp=sharing
+
+11th october - Pandas
+https://drive.google.com/file/d/1Ak8jhHL3CK_noyZ_to6EjVX4JUQaz1Zh/view?usp=sharing
+18th October - pandas
+https://drive.google.com/file/d/1-PvYimxgnqA2E9IS49WbO4QTUq9WjGk5/view?usp=sharing
+
+25th october - webscrapping
+https://drive.google.com/file/d/10PR7SFLnMtXicjcFWu_ssfMSjM7fJELx/view?usp=sharing
+
+1st nov - DBMS
+https://drive.google.com/file/d/1Qln1l_1LqA3rm3qecdPyAyNAjq5DvghH/view?usp=sharing
+
+7th nov - DBMS
+https://drive.google.com/file/d/1A5u5kxIagSpM-DOJENs-fcQ4EJUm7Wa1/view?usp=sharing
+
+14th Nov - DBMS
+https://drive.google.com/file/d/1C2ATJm036Qb4XBcajVru6wQGUX6GhMSQ/view?usp=sharing
+
+21st nov - DBMS
+https://drive.google.com/file/d/1-yXrXYVoGUV7gqXdL95JpZDbCM2dvwCI/view?usp=sharing
+
+28th nov - visualization
+https://drive.google.com/file/d/1QR28y57DeBEeg4F_85qGWcIdxJGLG80l/view?usp=sharing
+
